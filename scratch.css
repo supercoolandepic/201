@@ -1,36 +1,36 @@
 body{
-    background-image: url(https://w.wallhaven.cc/full/yx/wallhaven-yx2ewg.jpg);
-    background-repeat: repeat;
-    background-size: cover;
-    background-position: center;
-    color: aliceblue;
-    font-family: 'Times New Roman', Times, serif;
+    background-image: url(https://w.wallhaven.cc/full/yx/wallhaven-yx2ewg.jpg)!important;
+    background-repeat: repeat!important;
+    background-size: cover!important;
+    background-position: center!important;
+    color: aliceblue!important;
+    font-family: 'Times New Roman', Times, serif!important;
 }
 h1{
-    text-align: center;
-    border: 10px solid black; padding: 10px;
-    outline: black 2px;
-    font-size: 40px;
+    text-align: center !important;
+    border: 10px solid black!important; padding: 10px!important;
+    outline: black 2px!important;
+    font-size: 40px!important;
 }
 img{
-border-width: 50px;
-display: block;
+border-width: 50px!important;
+display: block!important;
 }
 ol{
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0)!important;
 }
 .footer{
-position: fixed;
-z-index: 1;
-bottom: 0px;
+position: fixed!important;
+z-index: 1!important;
+bottom: 0px!important;
 background-color: white
 }
 .header{
-top: 0px;;
+top: 0px!important;;
 }
 .mainbody{
-    top: 400px;
+    top: 400px!important;
 }
 iframe{
-   float: right;
+   float: right!important;
 }
